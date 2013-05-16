@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: def method
+# key: m
+# --
+def ${method_name}
+  $0
+end

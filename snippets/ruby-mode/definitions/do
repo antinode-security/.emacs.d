@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: do |param| end
+# key: do
+# --
+do |${paramaters}|
+  $0
+end

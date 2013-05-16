@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: define class
+# key: c
+# --
+def ${class_name}
+  $0
+end
