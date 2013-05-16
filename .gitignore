@@ -6,3 +6,5 @@ auto-save-list/
 session.*
 eshell/history
 eshell/lastdir
+elpa/
+url/
